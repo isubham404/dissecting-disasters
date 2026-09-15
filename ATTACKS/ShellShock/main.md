@@ -34,7 +34,7 @@ To understand Shellshock, one must understand how Bash passes shell functions be
 ### Legitimate Function Exporting
 In Bash, you can export functions to subshells using the environment table. When you declare and export a function:
 
-```bash
+
 # User defines and exports a function in Bash
 my_function() { echo "Hello World"; }
 export -f my_function
