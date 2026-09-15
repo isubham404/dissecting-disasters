@@ -1,1 +1,5 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aKShnpOXqn0?si=N88yabAf0OLpLvrF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 🎥 Video Explanation
+
+[![Shellshock Video Explanation](https://img.youtube.com/vi/aKShnpOXqn0/maxresdefault.jpg)](https://youtu.be/aKShnpOXqn0?si=i8qm2qmU_Q7VIiwr)
+
+> Watch the complete Shellshock explanation on YouTube.
